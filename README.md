@@ -1,4 +1,4 @@
-# Alex Raoo
+# Alex Rapp
 ## lab 03
 ## 09-24-2024
 ## Worked with/sources 
