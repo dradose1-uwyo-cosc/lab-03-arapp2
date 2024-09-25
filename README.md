@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Alex Raoo
+## lab 03
+## 09-24-2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* course materials/lecture notes
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* trouble remebering how looping worked
